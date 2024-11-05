@@ -1,0 +1,11 @@
+E:\vvvv\OnTapKT\bin\Debug\OnTapKT.exe.config
+E:\vvvv\OnTapKT\bin\Debug\OnTapKT.exe
+E:\vvvv\OnTapKT\bin\Debug\OnTapKT.pdb
+E:\vvvv\OnTapKT\obj\Debug\OnTapKT.csproj.AssemblyReference.cache
+E:\vvvv\OnTapKT\obj\Debug\OnTapKT.Form1.resources
+E:\vvvv\OnTapKT\obj\Debug\OnTapKT.Properties.Resources.resources
+E:\vvvv\OnTapKT\obj\Debug\OnTapKT.csproj.GenerateResource.cache
+E:\vvvv\OnTapKT\obj\Debug\OnTapKT.csproj.CoreCompileInputs.cache
+E:\vvvv\OnTapKT\obj\Debug\OnTapKT.exe
+E:\vvvv\OnTapKT\obj\Debug\OnTapKT.pdb
+E:\vvvv\OnTapKT\bin\Debug\QLSV.mdb
